@@ -75,6 +75,7 @@
     {"id":{"name":"spr_mega_man_climb","path":"sprites/spr_mega_man_climb/spr_mega_man_climb.yy",},"order":2,},
     {"id":{"name":"mus_stage_select","path":"sounds/mus_stage_select/mus_stage_select.yy",},"order":7,},
     {"id":{"name":"spr_wood_man_stage_template_background","path":"sprites/spr_wood_man_stage_template_background/spr_wood_man_stage_template_background.yy",},"order":10,},
+    {"id":{"name":"obj_teleporting_in_mega_man","path":"objects/obj_teleporting_in_mega_man/obj_teleporting_in_mega_man.yy",},"order":0,},
     {"id":{"name":"spr_medium_star","path":"sprites/spr_medium_star/spr_medium_star.yy",},"order":4,},
     {"id":{"name":"spr_master_portraits","path":"sprites/spr_master_portraits/spr_master_portraits.yy",},"order":10,},
     {"id":{"name":"spr_wood_man_jump","path":"sprites/spr_wood_man_jump/spr_wood_man_jump.yy",},"order":3,},
@@ -102,6 +103,7 @@
     {"id":{"name":"spr_wood_man_boss_door_closing","path":"sprites/spr_wood_man_boss_door_closing/spr_wood_man_boss_door_closing.yy",},"order":23,},
     {"id":{"name":"snd_test","path":"sounds/snd_test/snd_test.yy",},"order":13,},
     {"id":{"name":"snd_energy_fill","path":"sounds/snd_energy_fill/snd_energy_fill.yy",},"order":8,},
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":1,},
     {"id":{"name":"spr_master_portraits_negative","path":"sprites/spr_master_portraits_negative/spr_master_portraits_negative.yy",},"order":11,},
     {"id":{"name":"obj_transitions","path":"objects/obj_transitions/obj_transitions.yy",},"order":3,},
     {"id":{"name":"animation_hit_frame","path":"scripts/animation_hit_frame/animation_hit_frame.yy",},"order":1,},
@@ -229,6 +231,7 @@
     {"folderPath":"folders/Objects/Room Objects.yy","order":5,"resourceVersion":"1.0","name":"Room Objects","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Enemy Objects.yy","order":6,"resourceVersion":"1.0","name":"Enemy Objects","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Enemy Objects/Wood Man.yy","order":1,"resourceVersion":"1.0","name":"Wood Man","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/Player Objects.yy","order":7,"resourceVersion":"1.0","name":"Player Objects","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":461609314234257646,"resourceVersion":"1.0","name":"audiogroup_default","resourceType":"GMAudioGroup",},
