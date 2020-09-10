@@ -37,8 +37,10 @@ function MACROS() {
 	global.DEBUG = false;
 	global.PAUSE = false;
 	global.NEW_WEAPON = noone;
+	global.SELECTED_MASTER = noone;
 	global.MASTERS_DEFEATED = ds_list_create();
 	global.PREVIOUS_STAGE = rm_copyright;
+	global.DIFFICULT = false;
 	ds_list_add(global.MASTERS_DEFEATED,true,true,false,false,false,false,false,false,false);
 	//ds_map_add(global.MASTERS_DEFEATED,"bubble_man",false);
 	//ds_map_add(global.MASTERS_DEFEATED,"air_man",false);

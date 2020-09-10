@@ -1,2 +1,9 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description 
+
+//Menu
+selection_ = 0;
+options_ = ["NORMAL","DIFFICULT"];
+interval_timer_ = 0;
+interval_speed_ = 32;
+sound_ = noone;
+draw_caret_ = true;

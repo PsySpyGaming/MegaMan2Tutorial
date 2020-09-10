@@ -1,2 +1,5 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description 
+
+activate_ = false;
+sound_ = noone;
+restart_ = false;

@@ -113,6 +113,7 @@
 ],},"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Tiles","tags":[],"resourceType":"GMRTileLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_introduction","path":"objects/obj_introduction/obj_introduction.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":1303.0,"resourceVersion":"1.0","name":"inst_67695E9C","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_player_title","path":"objects/obj_player_title/obj_player_title.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":212.0,"y":159.0,"resourceVersion":"1.0","name":"inst_5C405F57","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"tilesetId":{"name":"tls_tower","path":"tilesets/tls_tower/tls_tower.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":16,"SerialiseHeight":96,"TileSerialiseData":[
 2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,
@@ -219,6 +220,7 @@
   "inheritCode": false,
   "instanceCreationOrder": [
     {"name":"inst_67695E9C","path":"rooms/rm_intro/rm_intro.yy",},
+    {"name":"inst_5C405F57","path":"rooms/rm_intro/rm_intro.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
