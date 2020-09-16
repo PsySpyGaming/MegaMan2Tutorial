@@ -150,3 +150,4 @@ sprite_[PLAYER_STATES.death,DIR4.left]					= noone;
 sprite_[PLAYER_STATES.death,DIR4.down]					= noone;
 
 #endregion
+

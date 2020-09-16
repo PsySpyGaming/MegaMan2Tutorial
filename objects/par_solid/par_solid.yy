@@ -1,10 +1,10 @@
 {
   "spriteId": {
-    "name": "spr_room_boundary",
-    "path": "sprites/spr_room_boundary/spr_room_boundary.yy",
+    "name": "spr_solid",
+    "path": "sprites/spr_solid/spr_solid.yy",
   },
   "solid": false,
-  "visible": false,
+  "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -24,11 +24,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Room Objects",
-    "path": "folders/Objects/Room Objects.yy",
+    "name": "Parent Objects",
+    "path": "folders/Objects/Parent Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_room_boundaries",
+  "name": "par_solid",
   "tags": [],
   "resourceType": "GMObject",
 }
